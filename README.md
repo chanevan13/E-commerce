@@ -20,6 +20,10 @@ run `npm start` to start server
 ## Description
 This application utilizes mySql, Sequalize, and is tested through insomnia.  I was motivated to complete this challenge because I wanted to better understand how a company would utilize these technologies to create an e-commerce will proper storage of data. 
 
+## Collaborators
+* Ntando Mendu(Tutor)
+* Alivia(Classmate)-https://github.com/17anguyen
+
 ## Usage
 
 N/A
